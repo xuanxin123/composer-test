@@ -1,0 +1,14 @@
+{
+    "name": "composer-test/master",
+    "description": "composer-test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "wangwenxuan",
+            "email": "17319420336@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
